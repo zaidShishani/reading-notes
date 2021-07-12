@@ -7,10 +7,14 @@ Growth mindset is about putting a conscious effort to improving your qualities t
 
 You can use a log book to keep track of your goals or simply challenges you want to by the end of the day, it will help you keep track of what you do and keep you in the mindest of growth. :zap::zap:
 
+
+
+
+
 ~~Picture~~
 ![alt text](http://higheredparent.com/wp-content/uploads/2018/11/Mindset-is-everything-1080x675.jpg)
 
-3 reminders while we are on this journey to a better mindset 
+3 reminders while we are on this journey to a better mindset:pill::pill: :
 - keep an eye for avoidance patterns and remind your of growth mindset
 - putting conscious effort to growth when not feeling in the mood
 - don’t take co-workers or criticism personally 
