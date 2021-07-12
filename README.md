@@ -7,8 +7,9 @@ Growth mindset is about putting a conscious effort to improving your qualities t
 
 You can use a log book to keep track of your goals or simply challenges you want to by the end of the day, it will help you keep track of what you do and keep you in the mindest of growth. :zap::zap:
 
-
-
+- [x] Did you brush your teeth? 
+- [ ] Did you do work research?
+- [ ] Did you learn something new today?
 
 
 ~~Picture~~
@@ -20,5 +21,12 @@ You can use a log book to keep track of your goals or simply challenges you want
 - don’t take co-workers or criticism personally 
 
 
-Reference 
-{https://www.atlassian.com/blog/inside-atlassian/growth-mindset}
+Reference: 
+https://www.atlassian.com/blog/inside-atlassian/growth-mindset
+
+Introduction :
+
+Hi am Zaid Shishani am 21 years old, second year software engineer student at ASAC,LTUC ,I like video games, movie, puzzles and sports 
+
+github:
+https://github.com/zaidShishani
