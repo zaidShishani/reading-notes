@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# **Growth mindset**
 
-You can use the [editor on GitHub](https://github.com/zaidShishani/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## **Summary**
+Growth mindset is about putting a conscious effort to improving your qualities to be able to face bigger challenges by improving from your previous obstacles,We gonna face setbacks things will get difficult and we will want to “take a break” watch a clip on youtube or use social media  to get that instant gratification or we wouldn’t have enough motivation to continue then and there  we should take a set back and a breath and push through and we shouldn’t view our coworkers as our opponent or someone we must overcome but rather a teammate that build each other up to improve and not take criticism as a personal attack but as tips we can use to overcome the obstacle so we can tackle new challenges.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+:point_right::point_right:**TIP**:point_left::point_left:
 
-### Markdown
+You can use a log book to keep track of your goals or simply challenges you want to by the end of the day, it will help you keep track of what you do and keep you in the mindest of growth. :zap::zap:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+~~Picture~~
+![alt text](http://higheredparent.com/wp-content/uploads/2018/11/Mindset-is-everything-1080x675.jpg)
 
-```markdown
-Syntax highlighted code block
+3 reminders while we are on this journey to a better mindset 
+- keep an eye for avoidance patterns and remind your of growth mindset
+- putting conscious effort to growth when not feeling in the mood
+- don’t take co-workers or criticism personally 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zaidShishani/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Reference 
+{https://www.atlassian.com/blog/inside-atlassian/growth-mindset}
