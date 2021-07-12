@@ -22,12 +22,12 @@ You can use a log book to keep track of your goals or simply challenges you want
 
 
 Reference: 
-https://www.atlassian.com/blog/inside-atlassian/growth-mindset
+[alt text](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 Introduction :
 
 Hi am Zaid Shishani am 21 years old, second year software engineer student at ASAC,LTUC ,I like video games, movie, puzzles and sports :cyclone: :dragon: :cyclone: 
 
 github:
-https://github.com/zaidShishani
+[alt text](https://github.com/zaidShishani)
 
