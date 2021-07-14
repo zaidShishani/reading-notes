@@ -1,4 +1,4 @@
-# Git intro
+# Intro to Git
 
 ## summray
 
