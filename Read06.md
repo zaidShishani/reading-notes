@@ -59,4 +59,3 @@ Why we would even do all this changes to our website
 
 It is so easier to our eyes and more engine with the user and not boring to look at.
 
-
