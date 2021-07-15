@@ -1,4 +1,7 @@
 # Intro to Git
+=======
+# Git intro
+>>>>>>> 00c88264bc0ccf0b16f7c778e2b0177d6ad2d0e1
 
 ## summray
 
